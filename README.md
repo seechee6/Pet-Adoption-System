@@ -1,2 +1,2 @@
-### **Home Page**
-![Image](https://github.com/user-attachments/assets/58b0c793-2fff-4257-8abc-1ac9883950fe)
+User Manual
+[https://docs.google.com/document/d/19f2_xbpoowb9VDZzJVqPR2PFzH-HqSCZqB2kRsiHePw/edit?usp=sharing](url)
